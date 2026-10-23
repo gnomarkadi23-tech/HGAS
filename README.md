@@ -6,7 +6,9 @@ To check if you have it, open cmd and type `winget --version`.
 
 !Just go in releases and download source code (zip or tar.gz).The app is inside the zip!
 <img width="818" height="731" alt="Снимок экрана 2026-10-23 103804" src="https://github.com/user-attachments/assets/29e33b3c-9d09-480a-bdf0-71fb062f1904" />
-Questions:
+
+
+  Questions:
 The app icon didn't appear on the desktop
 Just search in file explorer.
 There is no English language here
