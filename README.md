@@ -9,9 +9,9 @@ To check if you have it, open cmd and type `winget --version`.
 
 
   Questions:
-The app icon didn't appear on the desktop
+The app icon didn't appear on the desktop!
 Just search in file explorer.
-There is no English language here
+There is no English language here!
 Установить=download.
 will there be any more updates?
 No.
